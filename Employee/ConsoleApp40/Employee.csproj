@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C16CCD00-2D93-467D-8E34-B353B8393230}</ProjectGuid>
+    <ProjectGuid>{C4ECD744-D7C3-4333-B213-678EC8BD6599}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp38</RootNamespace>
-    <AssemblyName>ConsoleApp38</AssemblyName>
+    <RootNamespace>ConsoleApp40</RootNamespace>
+    <AssemblyName>ConsoleApp40</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,10 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Employee.cs" />
-    <Compile Include="Manager.cs" />
-    <Compile Include="..\..\..\Program.cs">
-      <Link>Program.cs</Link>
+    <Compile Include="..\..\..\..\..\Desktop\Manager.cs">
+      <Link>Manager.cs</Link>
     </Compile>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
