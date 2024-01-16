@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.pdb

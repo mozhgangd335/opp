@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Resturant\Resturant\bin\Debug\Resturant.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Administrator\Desktop\تمرین ها\Resturant\Resturant\obj\Debug\Resturant.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\تمرین ها\Resturant\Resturant\obj\Debug\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\تمرین ها\Resturant\Resturant\obj\Debug\Resturant.exe
+C:\Users\Administrator\Desktop\تمرین ها\Resturant\Resturant\obj\Debug\Resturant.pdb
+C:\Users\Administrator\Desktop\تمرین ها\Resturant\Resturant\bin\Debug\Resturant.exe.config
+C:\Users\Administrator\Desktop\تمرین ها\Resturant\Resturant\bin\Debug\Resturant.exe
+C:\Users\Administrator\Desktop\تمرین ها\Resturant\Resturant\bin\Debug\Resturant.pdb

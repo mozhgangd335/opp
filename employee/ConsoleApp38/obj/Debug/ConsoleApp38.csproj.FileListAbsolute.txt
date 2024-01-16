@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleApp38\ConsoleApp38\bin\Debug\ConsoleApp38.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ConsoleApp38\ConsoleApp38\obj\Debug\ConsoleApp38.pdb
